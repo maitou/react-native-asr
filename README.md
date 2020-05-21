@@ -1,4 +1,3 @@
-
 # @react-native-retu/asr
 
 ## Getting started
@@ -43,3 +42,6 @@ import RNAsr from 'react-native-asr';
 RNAsr;
 ```
   
+=======
+# -react-native-op-asr
+对第三方语音识别平台进行封装的RN组件
