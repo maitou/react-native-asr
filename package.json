@@ -1,0 +1,32 @@
+{
+  "name": "@react-native-op/asr",
+  "version": "1.0.0",
+  "description": "使用第三方平台封装的RN语音识别组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-asr",
+    "react-asr",
+    "asr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maitou/react-native-asr.git"
+  },
+  "author": {
+    "email": "2324209458@qq.com",
+    "name": "Yang Jiang"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maitou/react-native-asr/issues"
+  },
+  "homepage": "https://github.com/maitou/react-native-asr",
+  "peerDependencies": {
+    "react-native": "^0.61.5",
+    "react-native-permissions": "^2.1.4"
+  }
+}
