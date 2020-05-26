@@ -1,0 +1,55 @@
+{
+  "_from": "git+https://github.com/maitou/react-native-asr.git",
+  "_id": "@react-native-op/asr@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/@react-native-op/asr",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/maitou/react-native-asr.git",
+    "rawSpec": "git+https://github.com/maitou/react-native-asr.git",
+    "saveSpec": "git+https://github.com/maitou/react-native-asr.git",
+    "fetchSpec": "https://github.com/maitou/react-native-asr.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/maitou/react-native-asr.git#df99655d2f1acf4abffbf5e6d6fa926e35a70f2f",
+  "_spec": "git+https://github.com/maitou/react-native-asr.git",
+  "_where": "D:\\ReactNative\\yunzhouyi\\node_modules_project",
+  "author": {
+    "name": "Yang Jiang",
+    "email": "2324209458@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/maitou/react-native-asr/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "使用第三方平台封装的RN语音识别组件",
+  "homepage": "https://github.com/maitou/react-native-asr",
+  "keywords": [
+    "react-native",
+    "react-native-asr",
+    "react-asr",
+    "asr"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@react-native-op/asr",
+  "peerDependencies": {
+    "react-native": "^0.61.5",
+    "react-native-permissions": "^2.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maitou/react-native-asr.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
